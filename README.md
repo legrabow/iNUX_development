@@ -4,7 +4,7 @@ Current templates:
 - [Darcy Column](Darcy_Column.ipynb)
 - [1D Ditch Flow](Ditch_Flow.ipynb)
 - [Ghyben-Herzberg Equation](Ghyben_Herzberg.ipynb)
-- [Hydraulic Properties of Homogeneous and Heterogeneous layered unit](Hydraulic Properties of Homogeneous and Heterogeneous layered units (7).ipynb)
+- [Hydraulic Properties of Homogeneous and Heterogeneous layered unit](https://github.com/legrabow/iNUX_development/blob/main/Hydraulic%20Properties%20of%20Homogeneous%20and%20Heterogeneous%20layered%20units%20(7).ipynb)
 - [Permeameters](Permeameters.ipynb)
 - [Steady Flow in an Unconfined Aquifer](https://github.com/legrabow/iNUX_development/blob/main/Steady%20Flow%20in%20an%20Unconfined%20Aquifer.ipynb)
 - [Steady Radial Flow in a Confined Aquifer](SteadyRadialFlowCA.ipynb)
